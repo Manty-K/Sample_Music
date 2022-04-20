@@ -1,0 +1,11 @@
+{
+    "defination": {
+        "type": "container",
+        "color": 4278190080,
+        "width": 80.0,
+        "height": 10.0
+    },
+    "data": {
+        "myColor": "0xFFFF00FF"
+    }
+}
